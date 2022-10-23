@@ -1,0 +1,5 @@
+k2_rnnt模型：https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/boxcn4arqxcni6HPIJgTpHwSkeg/?mount_point=explorer
+
+conformer模型：https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/boxcni63mB6wpuLzjJyvZ50rXhf/?mount_point=explorer
+
+stream模型：https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/boxcn08bkAsqIGl6eotMMEtbcYg/?mount_point=explorer
